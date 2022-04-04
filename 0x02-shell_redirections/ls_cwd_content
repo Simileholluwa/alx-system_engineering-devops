@@ -1,0 +1,35 @@
+total 56
+-rw-rw-r-- 1 vagrant vagrant   12 Apr  4 14:32 *\\"Best School\"\\*$?*****:)
+drwxrwxr-x 2 vagrant vagrant 4096 Apr  4 14:44 .
+drwxrwxr-x 6 vagrant vagrant 4096 Apr  4 14:06 ..
+-rwxr-xr-x 1 vagrant vagrant   32 Apr  4 13:55 0-hello_world
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 1-confused_smiley
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 10-no_more_js
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 100-empty_casks
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 101-gifs
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 102-acrostic
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 103-the_biggest_fan
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 11-directories
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 12-newest_files
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 13-unique
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 14-findthatword
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 15-countthatword
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 16-whatsnext
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 17-hidethisword
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 18-letteronly
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 19-AZ
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 2-hellofile
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 20-hiago
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 21-reverse
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 22-users_and_homes
+-rwxr-xr-x 1 vagrant vagrant   39 Apr  4 14:08 3-twofiles
+-rwxr-xr-x 1 vagrant vagrant   35 Apr  4 14:13 4-lastlines
+-rwxr-xr-x 1 vagrant vagrant   35 Apr  4 14:14 5-firstlines
+-rwxr-xr-x 1 vagrant vagrant   36 Apr  4 14:23 6-third_line
+-rwxr-xr-x 1 vagrant vagrant   92 Apr  4 14:38 7-file
+-rwxr-xr-x 1 vagrant vagrant   36 Apr  4 14:43 8-cwd_state
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 13:51 9-duplicate_last_line
+-rw-rw-r-- 1 vagrant vagrant 4613 Apr  4 13:28 README.md
+-rw-rw-r-- 1 vagrant vagrant   24 Apr  4 14:38 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 vagrant vagrant  801 Apr  4 14:22 iacta
+-rw-rw-r-- 1 vagrant vagrant    0 Apr  4 14:44 ls_cwd_content
